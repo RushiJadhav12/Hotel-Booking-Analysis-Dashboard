@@ -55,7 +55,7 @@ Tableau's filtering capabilities will be utilized to enable interactive drill-do
 ● Data Quality: Ensuring the hotel data is clean, consistent, and correctly structured for accurate representation in Tableau.  
 ● Performance: Optimizing the workbook to ensure the dashboard loads and filters quickly, even as the volume of historical data increases.
 
-## 8. Conclusion :
+## 8. Conclusion:
 The Hotel Booking Analysis Dashboard is a critical project that will directly contribute to maximizing hotel revenue and operational efficiency. By providing a clear, interactive, 360-degree view of the business , this Tableau solution will transform raw data into the actionable insights necessary for management to make informed decisions on pricing, marketing, and room allocation.  
 
 
