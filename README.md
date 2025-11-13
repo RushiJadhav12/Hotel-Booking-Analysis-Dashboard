@@ -6,6 +6,7 @@ This project aims to develop an advanced, interactive Hotel Booking Analysis Das
 ## 2. Problem Statement
 Background:  
 While significant data is generated from hotel booking systems, the management team currently lacks a single, integrated tool for a comprehensive, real-time view of performance. Key information is fragmented across multiple reports, making it difficult to connect visitor volume to revenue, or channel performance to room type popularity.  
+
 Objective:  
 To create a dynamic, single-source-of-truth dashboard in Tableau that clearly isolates key performance drivers and bottlenecks, such as:  
 ● Identifying the most profitable room types and booking channels.  
@@ -13,7 +14,7 @@ To create a dynamic, single-source-of-truth dashboard in Tableau that clearly is
 ● Pinpointing time-based trends for forecasting and dynamic pricing strategies.    
 
 Scope:  
-● The dashboard will be scoped to include analyses of the hotel booking data, as demonstrated in the provided image . Key analyses include:  
+The dashboard will be scoped to include analyses of the hotel booking data, as demonstrated in the provided image . Key analyses include:  
 ● Key Performance Indicators (KPIs): Average Rating, Total Revenue, and Total Guests .  
 ● Revenue Generation: Revenue by Booking Channel and Revenue by Room Type .  
 ● Geographic Analysis: Revenue, Ratings, and Visitor Volume by Country .  
